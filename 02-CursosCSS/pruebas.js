@@ -1,0 +1,1 @@
+// validar un email con regex y explicar cada línea
